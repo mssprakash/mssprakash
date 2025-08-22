@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Siva Prakash Malleddi  👋  
 
-<!--
-**mssprakash/mssprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Software Developer | Aspiring DevOps + AI Engineer | Homelab Enthusiast
 
-Here are some ideas to get you started:
+I’m passionate about automation, cloud, and AI-driven solutions. Currently, I’m leveling up in DevOps & AI/ML while building projects in my homelab.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Tech Stack & Skills  
+**Operating systems**
+- IBM z/OS, Windows, Linux
+  
+**Languages**
+- Cobol, JCL, Python, SQL, Core Java, Focus, YAML, JSON, Shell Scripting 
+      
+**DevOps**     
+- CI/CD (Jenkins, GitHub Actions)
+- Git, Urban Code Deploy(UCD), jFrog artiafactory, Helios, Docker    
+- Cloud Platforms (Azure) 
+
+**Other**  
+- Mainframe Tools and utilities (DFSORT, ICETOOL, File Manager, ISPF, SDSF, TSO, USS, PEM)
+- z/OS Connect APIs, IBM TAZ(Test Accelerator for Z)
+
+---
+
+## 📚 Currently Learning  
+- 🔹 Kubernetes for production-grade workloads   
+- 🔹 Integrating AI into DevOps workflows (DevOps + AI Engineer path)  
+
+---
+
+## 💻 Projects   
+- [Homelab Setup](#) → My personal **Ubuntu + Docker + Traefik** server stack running Jellyfin, Nextcloud, Pi-hole, Syncthing, Immich and more.  
+
+
+---
+
+## 🌐 Connect with Me  
+- 💼 LinkedIn - https://www.linkedin.com/in/swamy-siva-prakash-malleddi-62143a55/
+- 📂 GitHub Repositories - https://github.com/mssprakash?tab=repositories
+
+---
+✨ *Always learning, always building. Open to collaboration and discussions on DevOps + AI!*  
