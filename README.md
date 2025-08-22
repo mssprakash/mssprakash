@@ -27,6 +27,7 @@ I’m passionate about automation, cloud, and AI-driven solutions. Currently, I�
 ## 📚 Currently Learning  
 - 🔹 Kubernetes for production-grade workloads   
 - 🔹 Integrating AI into DevOps workflows (DevOps + AI Engineer path)  
+- 🔹 Octopus Deploy 
 
 ---
 
