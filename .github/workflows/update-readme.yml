@@ -1,18 +1,21 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: "0 * * * *"  # Runs every hour
-  workflow_dispatch:  # Manual trigger
+  push:
+    branches:
+      - main
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Update README
+        run: |  
+          echo 'Updating README...'  
+          # Add your commands here
 
-      - name: Commit Changes
-        uses: mssp/git-auto-commit-action@v4
-        with:
-          commit_message: "Updated README with latest info"
+# Disable the workflow
+
+disabled: true
