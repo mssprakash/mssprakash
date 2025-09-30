@@ -38,7 +38,7 @@ I’m passionate about automation, cloud, and AI-driven solutions. Currently, I�
 ---
 
 ## 🌐 Connect with Me  
-- 💼 LinkedIn - https://www.linkedin.com/in/swamy-siva-prakash-malleddi-62143a55/
+- 💼 LinkedIn - https://www.linkedin.com/in/siva-prakash-malleddi-62143a55/
 - 📂 GitHub Repositories - https://github.com/mssprakash?tab=repositories
 
 ---
