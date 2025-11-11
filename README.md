@@ -1,8 +1,8 @@
 # Hi there, I'm Siva Prakash Malleddi  👋  
 
-🚀 Senior Software Developer | Aspiring DevOps + AI Engineer | Homelab Enthusiast
+🚀 Lead Engineer | DevOps, SRE, Platform Engineering, Mainframes | AI Enthusiast
 
-I’m passionate about automation, cloud, and AI-driven solutions. Currently, I’m leveling up in DevOps & AI/ML while building projects in my homelab.  
+I’m passionate about automation, cloud, and AI-driven solutions. Currently, I’m leveling up in DevOps & AI/ML while building projects in my homelab.   
 
 ---
 
@@ -11,16 +11,17 @@ I’m passionate about automation, cloud, and AI-driven solutions. Currently, I�
 - IBM z/OS, Windows, Linux
   
 **Languages**
-- Cobol, JCL, Python, SQL, Core Java, Focus, YAML, JSON, Shell Scripting 
+- Cobol, JCL, Python, SQL, Core Java, Focus, Groovy, YAML, JSON, Shell Scripting 
       
 **DevOps**     
 - CI/CD (Jenkins, GitHub Actions)
-- Git, Urban Code Deploy(UCD), jFrog artiafactory, Helios, Docker    
+- Git, UrbanCode Deploy(UCD), jFrog artiafactory, Docker, Docker Compose   
 - Cloud Platforms (Azure) 
 
-**Other**  
+**Others**  
 - Mainframe Tools and utilities (DFSORT, ICETOOL, File Manager, ISPF, SDSF, TSO, USS, PEM)
 - z/OS Connect APIs, IBM TAZ(Test Accelerator for Z)
+- GitHub Copilot
 
 ---
 
